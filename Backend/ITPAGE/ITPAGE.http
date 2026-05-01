@@ -1,0 +1,6 @@
+@ITPAGE_HostAddress = http://localhost:5202
+
+GET {{ITPAGE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
